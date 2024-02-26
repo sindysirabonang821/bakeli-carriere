@@ -1,0 +1,38 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.or{
+    font-style: italic;
+    text-decoration: underline;
+}
+.ar{
+    font-style: italic;
+}
+.ser{
+    font-style: italic;
+    text-decoration: underline;
+}
+.but{
+    text-decoration: underline;
+    color: blueviolet;
+}
+.rouge{
+    color: red;
+}
+.fa{
+    color: blueviolet;
+    text-align: center;
+    text-decoration: underline ;
+}
+.tar{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+}
+.pir{
+    position: relative;
+    left: 40px;
+}
+.p1{
+    text-decoration: underline;
+}
